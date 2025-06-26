@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Monish!
 
 <!-- Typing animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=500&lines=Final+Year+Engineering+Student;Full-Stack+MERN+Developer;Worked+on+ML+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=500&lines=Passionate+Problem+Solver;MERN+Stack+Learner;Worked+on+ML+Projects)
 
 <!-- Profile views -->
 ![Profile views](https://komarev.com/ghpvc/?username=monish-2004&color=blue)
@@ -10,15 +10,15 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on MERN stack web applications  
+- 🧠 I'm a passionate **problem solver**
 - 🤖 I’ve worked on multiple **Machine Learning** projects  
-- 🌱 Currently exploring advanced JavaScript, DevOps, and system design  
-- 💬 Ask me about React, Node.js, MongoDB, or REST APIs  
-- 📫 Reach me at: [GitHub](https://github.com/monish-2004)
+- 🌱 Currently exploring advanced JavaScript, backend systems, and cloud tools  
+- 💬 Ask me about MERN stack, GitHub, or automation  
+- 📫 Reach me on [GitHub](https://github.com/monish-2004) or [LinkedIn](https://linkedin.com/in/monish-a-963b6a2a5)
 
 ---
 
-## 🛠️ Tech Stack (MERN & More)
+## 🛠️ Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -34,9 +34,9 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 📈 Contribution Graph
 
-![Snake animation](https://monish-2004.github.io/monish-2004/github-contribution-grid-snake.svg)
+[![Monish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=monish-2004&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
