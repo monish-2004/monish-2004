@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Monish!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Passionate+Problem+Solver;MERN+Stack+Developer;Worked+on+ML+Projects;DSA+using+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Passionate+Problem+Solver;MERN+Stack+Developer;Worked+on+ML+Projects;DSA+using+Java" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monish-2004&theme=react-dark&hide_border=true" alt="Monish's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monish-2004&theme=nightowl&hide_border=true" alt="Monish's Activity Graph" />
 </div>
 
 ---
@@ -57,22 +57,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monish-2004&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-2004&theme=radical" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monish-2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-2004&theme=radical&hide_border=true" />
 </p>
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-2004&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-2004&theme=radical&hide_border=true&layout=compact" alt="Monish's Top Languages" />
 </div>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monish-2004&theme=onedark&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=monish-2004&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="Monish's Trophies" />
 </div>
-
 ---
 
 ## 🔗 Let's Connect
