@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats
 
-![Monish's GitHub stats](https://github-readme-stats.vercel.app/api?username=monish-2004&show_icons=true&theme=radical&rank_icon=github)
+![Monish's GitHub stats](https://github-readme-stats.vercel.app/api?username=monish-2004&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monish-2004&layout=compact&theme=radical)
 
 ---
