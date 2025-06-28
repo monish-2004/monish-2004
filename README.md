@@ -35,20 +35,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+
+![Monish's GitHub stats](https://github-readme-stats.vercel.app/api?username=monish-2004&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monish-2004&layout=compact&theme=radical)
 
 ## 📈 Contribution Graph
 
-![Monish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=monish-2004&theme=nightowl&hide_border=true)
-
----
-
-## 📊 GitHub Stats
-
-![Monish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monish-2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Monish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monish-2004&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monish-2004&theme=radical&hide_border=true&layout=compact)
+![Monish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=monish-2004&theme=nightowl)
 
 ---
 
