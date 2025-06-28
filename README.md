@@ -49,7 +49,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monish-2004&theme=nightowl&hide_border=true" alt="Monish's Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=monish-2004&theme=nightowl&hide_border=true" alt="Monish's GitHub Contribution Graph" />
 </div>
 
 ---
@@ -61,11 +61,9 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-2004&theme=radical&hide_border=true" />
 </p>
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-2004&theme=radical&hide_border=true&layout=compact" alt="Monish's Top Languages" />
 </div>
-
 
 ---
 
@@ -74,7 +72,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=monish-2004&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="Monish's Trophies" />
 </div>
----
+
 
 ## 🔗 Let's Connect
 
