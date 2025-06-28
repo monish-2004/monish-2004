@@ -37,9 +37,15 @@
 ---
 ## 📊 GitHub Stats
 
-![Monish's GitHub stats](https://github-readme-stats.vercel.app/api?username=monish-2004&show_icons=true&theme=radical)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monish-2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-2004&theme=radical&hide_border=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monish-2004&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-2004&theme=radical&hide_border=true&layout=compact" alt="Monish's Top Languages" />
+</div>
+
 
 ## 📈 Contribution Graph
 
