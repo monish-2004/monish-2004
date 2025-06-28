@@ -1,23 +1,33 @@
 ## 👋 Hi there, I'm Monish!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Passionate+Problem+Solver;MERN+Stack+Developer;Worked+on+ML+Projects;DSA+using+Java)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Passionate+Problem+Solver;MERN+Stack+Developer;Worked+on+ML+Projects;DSA+using+Java" alt="Typing SVG" />
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=monish-2004&color=blue)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=monish-2004&color=blue" alt="Profile views" />
+</div>
 
 ---
 
 ## 🚀 About Me
 
+<img align="right" height="150" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="Coding GIF" />
+
 - 🧠 I'm a passionate **problem solver**
 - 🤖 I’ve worked on multiple **Machine Learning** projects  
 - 💻 Practicing **Data Structures & Algorithms** using **Java**
 - 🌱 Currently exploring advanced JavaScript, backend systems, and cloud tools  
-- 💬 Ask me about MERN stack, GitHub, or automation  
+- 💬 Ask me about **MERN stack**, **GitHub**, or **automation**
 - 📫 Reach me on [GitHub](https://github.com/monish-2004) or [LinkedIn](https://linkedin.com/in/monish-a-963b6a2a5)
+
+<br clear="both">
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -32,28 +42,44 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
 ---
 
 ## 📈 Contribution Graph
 
-[![Monish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=monish-2004&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monish-2004&theme=react-dark&hide_border=true" alt="Monish's Activity Graph" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Monish's GitHub stats](https://github-readme-stats.vercel.app/api?username=monish-2004&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monish-2004&layout=compact&theme=radical)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monish-2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-2004&theme=radical" alt="GitHub Streak" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-2004&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=monish-2004&theme=onedark&margin-w=10&no-frame=true)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=monish-2004&theme=onedark&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+</div>
 
 ---
 
 ## 🔗 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/monish-2004)  
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/monish-2004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monish-a-963b6a2a5)
+
+</div>
