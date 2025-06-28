@@ -1,14 +1,15 @@
-## 👋 Hi there, I'm Monish!
+<div align="center">
+  ## 👋 Hi there, I'm Monish!
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Passionate+Problem+Solver;MERN+Stack+Developer;Worked+on+ML+Projects;DSA+using+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Passionate+Problem+Solver;MERN+Stack+Developer;Worked+on+ML+Projects;DSA+using+Java" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=monish-2004&color=blue" alt="Profile views" />
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -46,13 +47,11 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 My Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=monish-2004&theme=nightowl&hide_border=true" alt="Monish's GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monish-2004&theme=nightowl&hide_border=true" alt="Monish's Activity Graph" />
 </div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -65,8 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-2004&theme=radical&hide_border=true&layout=compact" alt="Monish's Top Languages" />
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -74,11 +71,14 @@
 </div>
 
 
-## 🔗 Let's Connect
+
+## 🔗 Connect with me
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/monish-2004)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monish-a-963b6a2a5)
-
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monish-2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monish-a-963b6a2a5)
+  
 </div>
+
+---
